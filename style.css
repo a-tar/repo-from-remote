@@ -11,3 +11,11 @@
 p{
   text-align: center;
 }
+#header {
+  width: 260px;
+  margin: 20px;
+  line-height: 50px;
+  background-color: burlywood;
+  text-align: center;
+  color: white;
+}

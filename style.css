@@ -11,10 +11,16 @@
 p{
   text-align: center;
 }
+<<<<<<< HEAD
 #footer {
   width: 260px;
   margin: 20px;
   height: 50px;
+=======
+#header {
+  width: 260px;
+  margin: 20px;
+>>>>>>> Development-1.0
   line-height: 50px;
   background-color: burlywood;
   text-align: center;
